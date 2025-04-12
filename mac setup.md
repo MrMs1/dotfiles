@@ -1,0 +1,23 @@
+Macセットアップ
+- 入力切り替え設定 https://support.apple.com/ja-jp/guide/japanese-input-method/jpimf6ffb247/mac
+- マウス加速OFF マウス > 詳細設定
+- コントロールセンター > 時刻 > 秒を表示
+- scroll reverser https://pilotmoon.com/scrollreverser/
+- warp https://www.warp.dev/
+- 東プレ https://www.realforce.co.jp/support/download/software/
+- https://obsidian.md/
+- https://www.jetbrains.com/ja-jp/lp/mono/
+- https://devtoys.app/download
+- https://existential.audio/blackhole/
+- https://www.raycast.com/
+- https://rancherdesktop.io/
+- https://github.com/Schniz/fnm
+- https://rancherdesktop.io/
+- https://sdkman.io/
+- https://brew.sh/ja/
+- https://github.com/cli/cli#installation
+- https://ohmyz.sh/#install
+- https://neovim.io/
+- https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k
+- https://git-fork.com/
+- https://www.cursor.com/ja
