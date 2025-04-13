@@ -1,19 +1,19 @@
-set shell=/bin/zsh
-set shiftwidth=4
-set tabstop=4
-set expandtab
-set textwidth=0
-set autoindent
-set hlsearch
-set clipboard=unnamed
-set number
-syntax on
+set shell=/bin/zsh "コマンド実行時のシェル設定
+set shiftwidth=4 "インテンドの幅
+set tabstop=4 "タブのサイズ
+set expandtab "タブ入力時にスペースに変換する
+set textwidth=0 "テキストの折り返しサイズ 0は折り返さない
+set autoindent "自動インテンド コピペでタブサイズがおかしくなる時は:set pasteで解除する
+set hlsearch "検索時のハイライト
+set clipboard=unnamed "クリップボードへの登録
+set number "行番号の表示
+syntax on "シンタックスハイライト
 
 call plug#begin()
-Plug 'ntk148v/vim-horizon'
-Plug 'preservim/nerdtree'
-Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'ntk148v/vim-horizon' "color theme
+Plug 'preservim/nerdtree' "vim上でフォルダ表示を行う
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } } "ファイル検索
+Plug 'neoclide/coc.nvim', {'branch': 'release'} "コード補完
 call plug#end()
 
 "vim-horizon

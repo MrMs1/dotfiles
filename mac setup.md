@@ -18,6 +18,8 @@ Macセットアップ
 - https://github.com/cli/cli#installation
 - https://ohmyz.sh/#install
 - https://neovim.io/
+- https://github.com/junegunn/vim-plug?tab=readme-ov-file#neovim
+- https://github.com/airblade/vim-gitgutter?tab=readme-ov-file#installation
 - https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k
 - https://git-fork.com/
 - https://www.cursor.com/ja
