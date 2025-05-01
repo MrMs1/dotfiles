@@ -1,6 +1,7 @@
-Macセットアップ
+Mac セットアップ
+
 - 入力切り替え設定 https://support.apple.com/ja-jp/guide/japanese-input-method/jpimf6ffb247/mac
-- マウス加速OFF マウス > 詳細設定
+- マウス加速 OFF マウス > 詳細設定
 - コントロールセンター > 時刻 > 秒を表示
 - scroll reverser https://pilotmoon.com/scrollreverser/
 - warp https://www.warp.dev/
@@ -23,3 +24,4 @@ Macセットアップ
 - https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k
 - https://git-fork.com/
 - https://www.cursor.com/ja
+- https://github.com/1kc/razer-macos/releases/tag/v0.4.10
